@@ -2,6 +2,8 @@
 
 Navigine is a global provider of integrated mobile indoor wayfinding and navigation technologies that enable advanced indoor and outdoor navigation and proximity solutions with more than 3000 client installations worldwide and more than 500 public mobile and web applications. We are included in the list of key role players in the RTLS market among companies around the world. You will notice the benefits of using an indoor navigation system within a month after deployment!
 
+![](https://github.com/Navigine/.github/blob/main/Navigine.png)
+
 Find out more about us and our projects on our website https://navigine.com/
 
 <!--
