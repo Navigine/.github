@@ -5,7 +5,7 @@ Navigine is a global provider of integrated mobile indoor wayfinding and navigat
 
 ![](https://github.com/Navigine/.github/blob/main/pic.png)
 
-🔗 Find out more about us and our projects on our website https://navigine.com/
+🔗 Find out more about Navigine and our projects on the website https://navigine.com/
 
 <!--
 
