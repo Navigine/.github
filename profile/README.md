@@ -1,19 +1,29 @@
-## Hi there 👋
+# Welcome to Navigine 👋
 
-### About Navigine
-Navigine is a global provider of integrated mobile indoor wayfinding and navigation technologies that enable advanced indoor and outdoor navigation and proximity solutions with more than 3000 client installations worldwide and more than 500 public mobile and web applications. We are included in the list of key role players in the RTLS market among companies around the world. You will notice the benefits of using an indoor navigation system within a month after deployment!
+## About us
 
-![](https://github.com/Navigine/.github/blob/main/pic11.png)
+Navigine is a global provider of mobile indoor navigation technologies—powering **3,000+ client installations** and **500+ public apps** worldwide.
 
-🔗 Find out more about Navigine and our projects on the website https://navigine.com/
+We specialize in advanced **indoor & outdoor wayfinding**, **RTLS**, and **proximity solutions**.
 
-<!--
+Recognized as a key player in the global RTLS market, our system delivers measurable results—often within a month of deployment.
 
-**Here are some ideas to get you started:**
+## Useful Links
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+🌐 [Navigine Official Website](https://navigine.com) : Learn more about our technologies, solutions, and real-world use cases.
+
+📘 [SDK Documentation](https://docs.navigine.com) : Access installation guides, API references, and integration tutorials.
+
+🚀 [Get Started Portal](http://locations.navigine.com/login) : Create your account to begin deploying location-aware apps.
+
+💬 [Community Discussion](https://community.navigine.com) : Share ideas, ask questions, and connect with developers building with Navigine.
+
+📞 [Contact Navigine Experts](https://navigine.com/contacts) : Get personalized support for integration, deployment, or product selection.
+
+
+![our-core-solutions-for-github](https://github.com/user-attachments/assets/a42b02bb-c9c4-4ac5-8a03-701a410583bc)
+
+## What You'll Find in This Repository
+
+Navigine's GitHub hosts open-source tools, SDK demos, and signal-processing algorithms that empower developers to build location-aware applications. You'll find indoor positioning algorithms, direction-of-arrival estimation models, platform-specific SDK integrations (Android & iOS), and mock location utilities. Each repository is backed by real-world implementations and supported by our community forum. Dive into our codebase to accelerate your RTLS, navigation, and mobility projects.
+
