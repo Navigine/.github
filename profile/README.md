@@ -8,7 +8,7 @@ We specialize in advanced **indoor & outdoor wayfinding**, **RTLS**, and **proxi
 
 Recognized as a key player in the global RTLS market, our system delivers measurable results—often within a month of deployment.
 
-## Useful Links
+## Useful links
 
 🌐 [Navigine Official Website](https://navigine.com) : Learn more about our technologies, solutions, and real-world use cases.
 
@@ -23,7 +23,7 @@ Recognized as a key player in the global RTLS market, our system delivers measur
 
 ![our-core-solutions-for-github](https://github.com/user-attachments/assets/a42b02bb-c9c4-4ac5-8a03-701a410583bc)
 
-## What You'll Find in This Repository
+## What you'll find here
 
 Navigine's GitHub hosts open-source tools, SDK demos, and signal-processing algorithms that empower developers to build location-aware applications. You'll find indoor positioning algorithms, direction-of-arrival estimation models, platform-specific SDK integrations (Android & iOS), and mock location utilities. Each repository is backed by real-world implementations and supported by our community forum. Dive into our codebase to accelerate your RTLS, navigation, and mobility projects.
 
